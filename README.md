@@ -21,13 +21,13 @@ Antes de iniciar, certifique-se de ter os seguintes softwares instalados:
   - Adicionado via CDN (nenhuma instalação adicional necessária)
 
 
-
-### Instalação
+### Como rodar o arquivo
 
 - Clone o repositório:
   - `git clone https://github.com/seu_usuario/seu_projeto.git`
 
-### Como rodar o arquivo
+- Entre na pasta
+  - `cd Teste_Sparta`
 
 - Inicialize o arquivo **main.py**
   - `python main.py`
